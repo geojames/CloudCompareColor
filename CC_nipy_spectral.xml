@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Nipy Spectral</name>
+            <uuid>{3ac87857-9c2c-426a-8738-a36e887c9432}</uuid>
+            <absolute>0</absolute>
+        </Properties>
+        <Data>
+			<step r="0" g="0" b="0" pos="0"/>
+			<step r="126" g="0" b="143" pos="0.071429"/>
+			<step r="24" g="0" b="167" pos="0.142857"/>
+			<step r="0" g="28" b="221" pos="0.214286"/>
+			<step r="0" g="144" b="221" pos="0.285714"/>
+			<step r="0" g="170" b="165" pos="0.357143"/>
+			<step r="0" g="161" b="61" pos="0.428571"/>
+			<step r="0" g="188" b="0" pos="0.5"/>
+			<step r="0" g="236" b="0" pos="0.571429"/>
+			<step r="161" g="255" b="0" pos="0.642857"/>
+			<step r="243" g="229" b="0" pos="0.714286"/>
+			<step r="255" g="165" b="0" pos="0.785714"/>
+			<step r="249" g="0" b="0" pos="0.857143"/>
+			<step r="211" g="0" b="0" pos="0.928571"/>
+			<step r="204" g="204" b="204" pos="1"/>
+		</Data>
+    </ColorScale>
+</CloudCompare>

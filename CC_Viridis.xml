@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Viridis</name>
+            <uuid>{d57b1021-0b3d-4114-ac48-ca2e5c3f07ae}</uuid>
+            <absolute>0</absolute>
+        </Properties>
+        <Data>
+            <step r="68" g="1" b="84" pos="0"/>
+			<step r="72" g="27" b="109" pos="0.071429"/>
+			<step r="70" g="50" b="126" pos="0.142857"/>
+			<step r="63" g="71" b="136" pos="0.214286"/>
+			<step r="54" g="92" b="141" pos="0.285714"/>
+			<step r="46" g="110" b="142" pos="0.357143"/>
+			<step r="39" g="127" b="142" pos="0.428571"/>
+			<step r="33" g="145" b="140" pos="0.5"/>
+			<step r="31" g="161" b="135" pos="0.571429"/>
+			<step r="45" g="178" b="125" pos="0.642857"/>
+			<step r="74" g="193" b="109" pos="0.714286"/>
+			<step r="115" g="208" b="86" pos="0.785714"/>
+			<step r="160" g="218" b="57" pos="0.857143"/>
+			<step r="208" g="225" b="28" pos="0.928571"/>
+			<step r="253" g="231" b="37" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

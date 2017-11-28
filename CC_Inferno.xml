@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Inferno</name>
+            <uuid>{24b38e0e-cb54-43a7-b194-ac7e684a0f10}</uuid>
+            <absolute>0</absolute>
+        </Properties>
+        <Data>
+			<step r="0" g="0" b="4" pos="0"/>
+			<step r="13" g="8" b="41" pos="0.071429"/>
+			<step r="40" g="11" b="83" pos="0.142857"/>
+			<step r="71" g="11" b="106" pos="0.214286"/>
+			<step r="101" g="21" b="110" pos="0.285714"/>
+			<step r="130" g="32" b="108" pos="0.357143"/>
+			<step r="159" g="42" b="99" pos="0.428571"/>
+			<step r="188" g="55" b="84" pos="0.5"/>
+			<step r="212" g="72" b="66" pos="0.571429"/>
+			<step r="232" g="96" b="45" pos="0.642857"/>
+			<step r="245" g="125" b="21" pos="0.714286"/>
+			<step r="252" g="159" b="7" pos="0.785714"/>
+			<step r="250" g="194" b="40" pos="0.857143"/>
+			<step r="243" g="229" b="93" pos="0.928571"/>
+			<step r="252" g="255" b="164" pos="1"/>
+		</Data>
+    </ColorScale>
+</CloudCompare>

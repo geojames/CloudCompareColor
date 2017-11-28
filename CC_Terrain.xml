@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Terrain</name>
+            <uuid>{47e7d369-b6f4-4b5b-a57f-026a32ff62f4}</uuid>
+            <absolute>0</absolute>
+        </Properties>
+        <Data>
+			<step r="51" g="51" b="153" pos="0"/>
+			<step r="27" g="99" b="201" pos="0.071429"/>
+			<step r="3" g="147" b="249" pos="0.142857"/>
+			<step r="0" g="184" b="160" pos="0.214286"/>
+			<step r="37" g="211" b="109" pos="0.285714"/>
+			<step r="109" g="226" b="124" pos="0.357143"/>
+			<step r="181" g="240" b="138" pos="0.428571"/>
+			<step r="254" g="254" b="152" pos="0.5"/>
+			<step r="218" g="208" b="133" pos="0.571429"/>
+			<step r="182" g="162" b="114" pos="0.642857"/>
+			<step r="146" g="115" b="94" pos="0.714286"/>
+			<step r="147" g="117" b="110" pos="0.785714"/>
+			<step r="183" g="163" b="159" pos="0.857143"/>
+			<step r="219" g="209" b="207" pos="0.928571"/>
+			<step r="255" g="255" b="255" pos="1"/>
+		</Data>
+    </ColorScale>
+</CloudCompare>

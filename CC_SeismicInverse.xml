@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Seismic - Inverse</name>
+            <uuid>{c608ad7e-4b6c-402d-b0bc-103d65f1dcb5}</uuid>
+            <absolute>0</absolute>
+        </Properties>
+        <Data>
+			<step r="128" g="0" b="0" pos="0"/>
+			<step r="163" g="0" b="0" pos="0.071429"/>
+			<step r="200" g="0" b="0" pos="0.142857"/>
+			<step r="236" g="0" b="0" pos="0.214286"/>
+			<step r="255" g="37" b="37" pos="0.285714"/>
+			<step r="255" g="109" b="109" pos="0.357143"/>
+			<step r="255" g="181" b="181" pos="0.428571"/>
+			<step r="255" g="253" b="253" pos="0.5"/>
+			<step r="181" g="181" b="255" pos="0.571429"/>
+			<step r="109" g="109" b="255" pos="0.642857"/>
+			<step r="37" g="37" b="255" pos="0.714286"/>
+			<step r="0" g="0" b="228" pos="0.785714"/>
+			<step r="0" g="0" b="177" pos="0.857143"/>
+			<step r="0" g="0" b="127" pos="0.928571"/>
+			<step r="0" g="0" b="76" pos="1"/>
+		</Data>
+    </ColorScale>
+</CloudCompare>

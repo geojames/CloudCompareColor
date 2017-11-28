@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>GNU Plot</name>
+            <uuid>{cff681cf-ce10-4e9e-9cc4-341da6fde4ea}</uuid>
+            <absolute>0</absolute>
+        </Properties>
+        <Data>
+			<step r="0" g="0" b="0" pos="0"/>
+			<step r="68" g="0" b="109" pos="0.071429"/>
+			<step r="96" g="1" b="198" pos="0.142857"/>
+			<step r="117" g="2" b="248" pos="0.214286"/>
+			<step r="136" g="6" b="248" pos="0.285714"/>
+			<step r="152" g="12" b="200" pos="0.357143"/>
+			<step r="167" g="20" b="112" pos="0.428571"/>
+			<step r="181" g="32" b="0" pos="0.5"/>
+			<step r="193" g="48" b="0" pos="0.571429"/>
+			<step r="204" g="68" b="0" pos="0.642857"/>
+			<step r="215" g="93" b="0" pos="0.714286"/>
+			<step r="226" g="125" b="0" pos="0.785714"/>
+			<step r="236" g="162" b="0" pos="0.857143"/>
+			<step r="246" g="205" b="0" pos="0.928571"/>
+			<step r="255" g="255" b="0" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>

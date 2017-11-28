@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Plasma</name>
+            <uuid>{55fe6b06-eb3f-4be3-8d20-6f9857538de5}</uuid>
+            <absolute>0</absolute>
+        </Properties>
+        <Data>
+			<step r="13" g="8" b="135" pos="0"/>
+			<step r="53" g="4" b="152" pos="0.071429"/>
+			<step r="83" g="2" b="163" pos="0.142857"/>
+			<step r="111" g="0" b="168" pos="0.214286"/>
+			<step r="139" g="10" b="165" pos="0.285714"/>
+			<step r="163" g="30" b="154" pos="0.357143"/>
+			<step r="184" g="50" b="137" pos="0.428571"/>
+			<step r="204" g="71" b="120" pos="0.5"/>
+			<step r="219" g="92" b="104" pos="0.571429"/>
+			<step r="233" g="113" b="88" pos="0.642857"/>
+			<step r="244" g="136" b="73" pos="0.714286"/>
+			<step r="251" g="162" b="56" pos="0.785714"/>
+			<step r="254" g="189" b="42" pos="0.857143"/>
+			<step r="250" g="218" b="36" pos="0.928571"/>
+			<step r="240" g="249" b="33" pos="1"/>
+		</Data>
+    </ColorScale>
+</CloudCompare>

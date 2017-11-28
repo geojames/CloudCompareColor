@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>ESRI - Elevation #1</name>
+            <uuid>{7f0727ed-124f-419f-9574-1aee2add1ecc}</uuid>
+            <absolute>0</absolute>
+        </Properties>
+        <Data>
+			<step r="175" g="240" b="233" pos="0"/>
+			<step r="255" g="255" b="179" pos="0.141202395750932"/>
+			<step r="0" g="128" b="64" pos="0.286360040682563"/>
+			<step r="252" g="186" b="3" pos="0.42761893999322"/>
+			<step r="117" g="14" b="2" pos="0.588315063849023"/>
+			<step r="107" g="43" b="11" pos="0.686066222171997"/>
+			<step r="176" g="176" b="176" pos="0.866369081252119"/>
+			<step r="252" g="252" b="252" pos="1"/>
+		</Data>
+    </ColorScale>
+</CloudCompare>

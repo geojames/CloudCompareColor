@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Purple-White-Red - Divergent</name>
+            <uuid>{4148ee95-1d35-4705-b58a-0a90313c09ea}</uuid>
+            <absolute>0</absolute>
+        </Properties>
+        <Data>
+            <step r="85" g="0" b="127" pos="0"/>
+            <step r="0" g="0" b="255" pos="0.1667"/>
+            <step r="85" g="255" b="0" pos="0.3333"/>
+            <step r="255" g="255" b="255" pos="0.5"/>
+            <step r="255" g="255" b="0" pos="0.6666"/>
+            <step r="255" g="0" b="0" pos="0.8333"/>
+            <step r="121" g="0" b="0" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>
