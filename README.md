@@ -8,6 +8,7 @@ The color ramps are mostly from Matplotlib, with two from ESRI ArcMap, and one c
 * CC_ESRI_Temperature - ESRI
 
 Visit the [Matplotlib color Reference for examples](https://matplotlib.org/examples/color/colormaps_reference.html)
+[Imgur](https://i.imgur.com/v5o8h2X.png)
 * CC_GISTEarth.xml
 * CC_gnuPlot.xml
 * CC_gnuPlot2.xml
