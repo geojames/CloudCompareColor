@@ -20,4 +20,4 @@ The color ramps are mostly from Matplotlib, with two from ESRI ArcMap, and one c
 * CC_Terrain.xml
 * CC_Viridis.xml
 
-To load these color ramps use the documetation from the CloudCompare Wiki: [Color Scales Manager](http://www.cloudcompare.org/doc/wiki/index.php?title=Scalar_fields%5CColor_Scales_Manager)
+To load these color ramps, import them in the Color Scale Manager - documetation from the CloudCompare Wiki: [Color Scales Manager](http://www.cloudcompare.org/doc/wiki/index.php?title=Scalar_fields%5CColor_Scales_Manager)
