@@ -3,6 +3,7 @@ A variety of color ramps to compliment the built-in colors in CloudCompare
 
 The color ramps are mostly from Matplotlib, with two from ESRI ArcMap, and one custom from myself:
 
+![alt text](https://i.imgur.com/10Uv9bg.png)
 * CC_Diverg_Purple-White_Red.xml - Dietrich
 * CC_ESRI_Elev1.xml - ESRI
 * CC_ESRI_Temperature - ESRI
