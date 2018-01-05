@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Blue-Gray-Red</name>
+            <uuid>{586cf6a1-63f0-465b-a0d0-d5d016ca1516}</uuid>
+            <absolute>0</absolute>
+        </Properties>
+        <Data>
+            <step r="0" g="0" b="130" pos="0"/>
+            <step r="0" g="0" b="255" pos="0.25"/>
+            <step r="150" g="150" b="150" pos="0.5"/>
+            <step r="255" g="0" b="0" pos="0.75"/>
+            <step r="130" g="0" b="0" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>
