@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Red-Gray-Green</name>
+            <uuid>{98852ca8-2a66-4bdb-9c7a-ad3bfa1c5faf}</uuid>
+            <absolute>0</absolute>
+        </Properties>
+        <Data>
+            <step r="127" g="0" b="0" pos="0"/>
+            <step r="255" g="0" b="0" pos="0.1666"/>
+            <step r="255" g="255" b="0" pos="0.334763948498"/>
+            <step r="141" g="141" b="141" pos="0.5"/>
+            <step r="0" g="255" b="0" pos="0.656652360515"/>
+            <step r="0" g="168" b="0" pos="0.83333333"/>
+            <step r="0" g="103" b="0" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>
