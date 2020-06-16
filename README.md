@@ -1,6 +1,13 @@
 # CloudCompareColor
 A variety of color ramps to compliment the built-in colors in CloudCompare
 
+To Download:
+-	Click on the green button on the right (“Clone or Download”)
+-	Download ZIP
+-	Unzip the downloaded fileWindows – Right-click, Extract here
+- Unzip to the location of your choice (Windows – Right-click, Extract here, Mac – Double-click to extract)
+-	The XML color files can then be inported into CloudCompare via the Color Manager
+
 The color ramps are mostly from Matplotlib, with two from ESRI ArcMap, and one custom from myself:
 
 ![alt text](https://i.imgur.com/10Uv9bg.png)
