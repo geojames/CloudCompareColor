@@ -2,13 +2,17 @@
 A variety of color ramps to compliment the built-in colors in CloudCompare
 
 To Download:
--	Click on the green button on the right (“Clone or Download”)
--	Download ZIP
--	Unzip the downloaded fileWindows – Right-click, Extract here
-- Unzip to the location of your choice (Windows – Right-click, Extract here, Mac – Double-click to extract)
--	The XML color files can then be inported into CloudCompare via the Color Manager
+*	Click on the green button on the right (“Clone or Download”)
+*	Download ZIP
+*	Unzip the downloaded file > Windows – Right-click, Extract here
+* Unzip to the location of your choice (Windows – Right-click, Extract here, Mac – Double-click to extract)
+*	The XML color files can then be imported into CloudCompare via the Color Manager
+> documetation from the CloudCompare Wiki: [Color Scales Manager](http://www.cloudcompare.org/doc/wiki/index.php?title=Scalar_fields%5CColor_Scales_Manager)
 
-The color ramps are mostly from Matplotlib, with two from ESRI ArcMap, and one custom from myself:
+
+The color ramps are mostly from Matplotlib, with two from ESRI ArcMap, and one custom from myself.
+
+**Major Addition (2024-Mar-11)**: Adding Fabio Crameri's Scientific Colormaps v8 <https://www.fabiocrameri.ch/colourmaps/>
 
 ![alt text](https://i.imgur.com/10Uv9bg.png)
 * CC_Diverg_Purple-White_Red.xml - Dietrich
@@ -27,4 +31,3 @@ The color ramps are mostly from Matplotlib, with two from ESRI ArcMap, and one c
 * CC_Terrain.xml
 * CC_Viridis.xml
 
-To load these color ramps, import them in the Color Scale Manager - documetation from the CloudCompare Wiki: [Color Scales Manager](http://www.cloudcompare.org/doc/wiki/index.php?title=Scalar_fields%5CColor_Scales_Manager)
