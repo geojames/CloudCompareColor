@@ -31,5 +31,5 @@ The color ramps are mostly from Matplotlib, with two from ESRI ArcMap, and one c
 * CC_Terrain.xml
 * CC_Viridis.xml
 
-Crameri's Scientific Colormaps v8
-![alt text](../SciColurMaps/+ScientificColourMaps8-FabioCrameri.png)
+### Crameri's Scientific Colormaps v8
+![alt text](SciColourMaps/+ScientificColourMaps8-FabioCrameri.png)
