@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Clasification</name>
+            <uuid>{3ad7d09f-50b5-4143-8308-b3014c0a830e}</uuid>
+            <absolute>1</absolute>
+            <minValue>1</minValue>
+            <range>1</range>
+        </Properties>
+        <Data>
+            <step r="255" g="170" b="0" pos="0"/>
+            <step r="177" g="177" b="177" pos="1"/>
+            <label val="1" text="Not Ground"/>
+            <label val="2" text="Ground"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>
