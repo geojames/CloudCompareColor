@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CloudCompare>
+    <ColorScale version="1">
+        <Properties>
+            <name>Classification - LAS 1.4</name>
+            <uuid>{5ee41b36-7f61-441a-bdad-38c0038fc6ea}</uuid>
+            <absolute>1</absolute>
+            <minValue>0</minValue>
+            <range>18</range>
+        </Properties>
+        <Data>
+            <step r="255" g="255" b="255" pos="0"/>
+            <step r="217" g="217" b="217" pos="0.0555555555556"/>
+            <step r="166" g="116" b="4" pos="0.111111111111"/>
+            <step r="38" g="114" b="0" pos="0.166666666667"/>
+            <step r="69" g="229" b="0" pos="0.222222222222"/>
+            <step r="204" g="240" b="123" pos="0.277777777778"/>
+            <step r="255" g="255" b="0" pos="0.333333333333"/>
+            <step r="255" g="0" b="0" pos="0.388888888889"/>
+            <step r="255" g="0" b="255" pos="0.444444444444"/>
+            <step r="0" g="0" b="255" pos="0.5"/>
+            <step r="255" g="255" b="200" pos="0.555555555556"/>
+            <step r="136" g="136" b="136" pos="0.611111111111"/>
+            <step r="255" g="170" b="255" pos="0.666666666667"/>
+            <step r="255" g="255" b="255" pos="0.722222222222"/>
+            <step r="255" g="255" b="255" pos="0.777777777778"/>
+            <step r="255" g="255" b="255" pos="0.833333333333"/>
+            <step r="255" g="255" b="255" pos="0.888888888889"/>
+            <step r="255" g="255" b="255" pos="0.944444444444"/>
+            <step r="165" g="0" b="0" pos="1"/>
+        </Data>
+    </ColorScale>
+</CloudCompare>
